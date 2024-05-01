@@ -10,7 +10,7 @@ title: Publications
 
 ---
 
- ## Paper（Under review）
+## Paper(Under review)
 
 - 
 
