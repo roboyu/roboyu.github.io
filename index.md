@@ -29,10 +29,10 @@ I am an undergraduate in [Sichuan University](https://en.scu.edu.cn/) and am kee
 - Deep Reinforcement Learning
 
 
+My current research goal is to explore the autonomy of 🤖, especially in unknown and complex environments, still achieving robust and agile behavior. I have a broad interest in related field
+                     
+Furthermore, I also show solicitude for generality of 🤖
 
-   My current research goal is to explore the autonomy of 🤖, especially in unknown and complex environments, still achieving robust and agile behavior. I have a broad interest in related field.
-
-Furthermore, I also show solicitude for generality of 🤖.
 
 ---
 
