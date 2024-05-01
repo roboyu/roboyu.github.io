@@ -9,14 +9,14 @@ layout: page
 Here is **Haoyu Wang(Haruka, 王浩宇)**.
 
 I am an undergraduate in [Sichuan University](https://en.scu.edu.cn/) and am keenly interested in robotics.
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *haruka.haoyu@gmail.com*
+**<font color='red'>[Highlight]</font> I am actively seeking for PhD position to start in 2026/2027 Fall. Meanwhile, I am looking forward for summer research. If you have any leads or opportunities available, please feel free to contact me at - haruka.haoyu@gmail.com**
+
 
 ## Academic Background
 
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- **2022.9 - 2026.6:** Sichuan University (BEng)
+- **2024.1 - 2024.2:** University (Research Intern)
+
 
 ---
 
