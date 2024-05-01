@@ -22,14 +22,11 @@ I am an undergraduate in [Sichuan University](https://en.scu.edu.cn/) and am kee
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
+- <font color='red'>Trajectory Optimization</font>
+- <font color='red'>Motion Planning</font>
+- Deep Reinforcement Learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
+My current research goal is to explore the autonomy of 🤖, especially in unknown and complex environments, still achieving robust and agile behavior. I have a broad interest in related field, furthermore, I also show solicitude for generality of 🤖.
 ---
 
 ## News and Updates
