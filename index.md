@@ -36,4 +36,4 @@ Furthermore, I also show solicitude for generality of 🤖.
 
 ## News and Updates
 
-- **2024.4：searching for collaborator to springt for IROS/ICRA 2025
+- 2024.4：searching for collaborator to springt for IROS/ICRA 2025
