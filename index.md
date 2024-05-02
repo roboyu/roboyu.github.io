@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://roboyu.github.io/haoyu.jpg" class="floatpic" width="720" height="1080">
 
-Here is **Haoyu Wang(Haruka, 王浩宇)**.
+Here is **Haoyu Wang(Haruka)**.
 
 I am an undergraduate in [Sichuan University](https://en.scu.edu.cn/) and am keenly interested in robotics.
 
