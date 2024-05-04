@@ -26,6 +26,7 @@ I am an undergraduate in [Sichuan University](https://en.scu.edu.cn/) and am kee
 
 - <font color='red'>Trajectory Optimization</font>
 - <font color='red'>Motion Planning</font>
+- Path Planning
 - Deep Reinforcement Learning
 
 
