@@ -8,7 +8,7 @@ title: Publications
 
 - **coming soon**
 
-- Autonomous Robotic Exploration with Consistent Decision Making <br>IEEE Transactions on Mechatronics (T-Mech 2024) <br>**Haoyu Wang**, Xing Zhen
+- Autonomous Robotic Exploration with Consistent Decision Making <br><em>IEEE Transactions on Mechatronics (T-Mech),2024</em> <br>**Haoyu Wang**, Xing Zhen
   <br>
 
 
