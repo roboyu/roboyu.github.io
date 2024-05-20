@@ -4,7 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://roboyu.github.io/haoyu.jpg" class="floatpic" width="720" height="1080">
 
 Here is **Haoyu Wang(Haruka)**.
 
