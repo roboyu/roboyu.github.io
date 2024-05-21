@@ -23,7 +23,7 @@ title: Publications
 
 ---
 
-## Projects
+## Related Projects
 
 - **SLAM:Real-time Localization and Mapping**
 
