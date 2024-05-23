@@ -16,7 +16,7 @@ I am an undergraduate in [Sichuan University](https://en.scu.edu.cn/) and am kee
 ## Academic Background
 
 - **2022.9 - 2026.6:** Sichuan University (BEng)
-- **2024.1 - 2024.2:** University (Research Intern)
+- **2024.7 - 2024.x:** Sun Yat-sen University (Research Intern)
 
 
 ---
@@ -24,9 +24,8 @@ I am an undergraduate in [Sichuan University](https://en.scu.edu.cn/) and am kee
 ## Research Interests
 
 - Trajectory Optimization
-- Motion Planning
-- Path Planning
-- Robot Perception
+- Planning for Motion and Path
+- Robot Perception and Navigation
 - Deep Reinforcement Learning
 
 
