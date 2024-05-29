@@ -26,12 +26,13 @@ title: Publications
 
 ## Related Projects
 
+ <img align="left" src="https://roboyu.github.io/images/11.png" style="zoom: 75%;">
 - **SLAM:Real-time Localization and Mapping**
 
   Control a four-wheel unmanned vehicle to autonomously navigate inside a building at Sichuan University's campus and construct a grid map of the surrounding environment.<br>
   [report][code]<br>
   Advisor: xxx, 2023.10-2023.12<br>
- <img align="left" src="https://roboyu.github.io/images/11.png" style="zoom: 75%;">
+
   
 
 ---
