@@ -18,7 +18,7 @@ title: Publications
 ## Under review Paper
 
 - Developed a navigation system for a mobile robot, enhancing localization frequency and accuracy by integrating lidar, IMU, and encoder data with a Karman filter, and enabling the robot to navigate autonomously in uneven environments. 
-  <iframe src="https://www.youtube.com/embed/DtH-J36skYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="zoom: 75%;"></iframe>
+  <iframe src="https://www.youtube.com/embed/DtH-J36skYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="zoom: 50%;"></iframe>
 
 
 
