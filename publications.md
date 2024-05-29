@@ -29,8 +29,8 @@ title: Publications
 
   Control a four-wheel unmanned vehicle to autonomously navigate inside a building at Sichuan University's campus and construct a grid map of the surrounding environment.<br>
   [report][code]<br>
-  Advisor: xxx, 2023.10-2023.12
- <img src="https://roboyu.github.io/images/11.png" style="zoom: 35%;">
+  Advisor: xxx, 2023.10-2023.12<br>
+ <img src="https://roboyu.github.io/images/11.png" style="zoom: 50%;">
   
 
 ---
