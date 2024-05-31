@@ -17,7 +17,7 @@ I am an undergraduate in [Sichuan University](https://en.scu.edu.cn/) and am kee
 
 - **2022.9 - 2026.6:** Sichuan University (B.Eng.)
 
-- **2024.7 - 2024.x:** Sun Yat-sen University (Research Intern)
+- **2024.7 - 2024.x:** [Sun Yat-sen University ](https://www.sysu.edu.cn/sysuen/)(Research Intern)
 
 
 ---
