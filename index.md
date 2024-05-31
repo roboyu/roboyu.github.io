@@ -15,7 +15,8 @@ I am an undergraduate in [Sichuan University](https://en.scu.edu.cn/) and am kee
 
 ## Academic Background
 
-- **2022.9 - 2026.6:** Sichuan University (BEng)
+- **2022.9 - 2026.6:** Sichuan University (B.Eng.)
+
 - **2024.7 - 2024.x:** Sun Yat-sen University (Research Intern)
 
 
