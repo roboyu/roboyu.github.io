@@ -15,9 +15,13 @@ I am an undergraduate in Sichuan University and am keenly interested in robot pe
 
 ## Academic Background
 
+Education
 - **2022.9 - 2026.6:** [Sichuan University](https://en.scu.edu.cn/)(B.S.)
 
+Experience
 - **2024.7 - 2024.x:** [Sun Yat-sen University ](https://www.sysu.edu.cn/sysuen/)(Research Intern)
+- **2024.3 - 2024.x:** [Sichuan University ](https://en.scu.edu.cn/)(Research Assistant)
+
 
 
 ---
